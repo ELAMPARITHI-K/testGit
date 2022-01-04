@@ -3,7 +3,6 @@ class Test1{
     System.out.println("Elam- test1 java file modified for commit 1");
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
     System.out.println("Elam- bt2 check");
 =======
     System.out.println("Elam- master1 check");
@@ -11,8 +10,5 @@ class Test1{
 =======
     System.out.println("Elam- master check");
 >>>>>>> 70fcb6e012de8f662264e794d886793b9c30caed
-=======
-    System.out.println("Elam- master2 check");
->>>>>>> 07261d2f6c61a53153fb10c4b8bb44cf2baf32d0
   }
 }
